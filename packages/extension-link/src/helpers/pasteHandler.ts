@@ -33,7 +33,7 @@ export function pasteHandler(options: PasteHandlerOptions): Plugin {
         })
 
         const link = find(textContent, { defaultProtocol: options.defaultProtocol }).find(
-          item => item.isLink && item.start === 0 && item.end === textContent.length,
+          item => item.isLink && item.value === textContent,
         )
 
         if (!textContent || !link || (shouldAutoLink !== undefined && !shouldAutoLink(link.value))) {
