@@ -1,5 +1,58 @@
 # @tiptap/extension-drag-handle-vue-2
 
+## 3.22.3
+
+### Patch Changes
+
+- Updated dependencies [ac994c5]
+  - @tiptap/extension-drag-handle@3.22.3
+  - @tiptap/vue-2@3.22.3
+  - @tiptap/pm@3.22.3
+
+## 3.22.2
+
+### Patch Changes
+
+- @tiptap/extension-drag-handle@3.22.2
+- @tiptap/vue-2@3.22.2
+- @tiptap/pm@3.22.2
+
+## 3.22.1
+
+### Patch Changes
+
+- Updated dependencies [942eb85]
+- Updated dependencies [ee03ac0]
+  - @tiptap/extension-drag-handle@3.22.1
+  - @tiptap/vue-2@3.22.1
+  - @tiptap/pm@3.22.1
+
+## 3.22.0
+
+### Patch Changes
+
+- @tiptap/extension-drag-handle@3.22.0
+- @tiptap/vue-2@3.22.0
+- @tiptap/pm@3.22.0
+
+## 3.21.0
+
+### Patch Changes
+
+- Updated dependencies [0caf1f6]
+  - @tiptap/extension-drag-handle@3.21.0
+  - @tiptap/pm@3.21.0
+  - @tiptap/vue-2@3.21.0
+
+## 3.20.6
+
+### Patch Changes
+
+- Updated dependencies [dc6a4e5]
+  - @tiptap/extension-drag-handle@3.20.6
+  - @tiptap/pm@3.20.6
+  - @tiptap/vue-2@3.20.6
+
 ## 3.20.5
 
 ### Patch Changes

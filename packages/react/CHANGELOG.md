@@ -1,5 +1,60 @@
 # Change Log
 
+## 3.22.3
+
+### Patch Changes
+
+- Updated dependencies [cb28e7b]
+  - @tiptap/core@3.22.3
+  - @tiptap/pm@3.22.3
+
+## 3.22.2
+
+### Patch Changes
+
+- 8ab8bee: Fixed an error where `flushSync()` would run in `<EditorContent />` lifecycle
+- Updated dependencies [f1d504c]
+- Updated dependencies [404c683]
+  - @tiptap/core@3.22.2
+  - @tiptap/pm@3.22.2
+
+## 3.22.1
+
+### Patch Changes
+
+- ee03ac0: Fix NodeView not re-rendering when a node's position changes without content or decoration changes (e.g. when a sibling node is moved within the same parent)
+- 6f3b9fc: Prevent React node views from crashing during deferred selection updates when ProseMirror has already detached the node view position lookup.
+- Updated dependencies [ee03ac0]
+- Updated dependencies [b88f9ed]
+  - @tiptap/core@3.22.1
+  - @tiptap/pm@3.22.1
+
+## 3.22.0
+
+### Patch Changes
+
+- Updated dependencies [912a49b]
+- Updated dependencies [7d4fb9a]
+- Updated dependencies [0c1c112]
+- Updated dependencies [0c1c112]
+- Updated dependencies [f99bdc2]
+  - @tiptap/core@3.22.0
+  - @tiptap/pm@3.22.0
+
+## 3.21.0
+
+### Patch Changes
+
+- @tiptap/core@3.21.0
+- @tiptap/pm@3.21.0
+
+## 3.20.6
+
+### Patch Changes
+
+- @tiptap/core@3.20.6
+- @tiptap/pm@3.20.6
+
 ## 3.20.5
 
 ### Patch Changes
